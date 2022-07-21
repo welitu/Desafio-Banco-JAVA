@@ -2,7 +2,7 @@
 
 ## 📕 About
 
-O projeto consiste na criacao de um Banco de dados em JAVA, simulando o sistema de um banco, com clientes, contas, funcoes entre outro.
+O projeto consiste na criação de um Banco de dados em JAVA, simulando o sistema de um banco, com clientes, contas, funções entre outros.
 
 Abstração
 Habilidade de concentrar-se nos aspectos essenciais de um domínio, ignorando características menos importantes ou acidentais. Nesse contexto, objetos são abstrações de entidades existentes no domínio em questão.
